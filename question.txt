@@ -1,0 +1,8 @@
+
+1. IMU data 읽는 방법
+
+2. raw 이미지 데이터(L, R) 읽는 방법
+
+3. librealsense 의 대략적인 구조
+
+4. ROS 연동 (ex. rviz, put on cart)

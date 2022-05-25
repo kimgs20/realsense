@@ -14,7 +14,7 @@ int main(int argc, char * argv[]) try
     while (true)
     {
         // Block program until frames arrive
-        rs2::freamset frames = p.wait_for_frames();
+        rs2::frameset frames = p.wait_for_frames();
 
         // Try to get a frame of a depth iamge
         rs2::depth_frame depth = frames.get_depth_frame();
