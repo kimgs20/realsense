@@ -1,7 +1,0 @@
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/install/strip.dir
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/install.dir
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/list_install_components.dir
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/rebuild_cache.dir
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/edit_cache.dir
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/install/local.dir
-/home/kgs/gs_ws/realsense/librealsense/examples/hello-realsense/build/CMakeFiles/rs-hello-realsense.dir
