@@ -6,8 +6,12 @@
 
 3. make dir and run make
 ```
-mkdir build && cd build
-cmake ../
+$ mkdir build && cd build
+$ cmake ..
+$ make
 ```
 
-4. where is executable?
+4. run excutable in build directory
+   
+(option: build in terminal)
+$ g++ -o rs-hello-realsense rs-hello-realsense.cpp -lrealsense2
