@@ -6,10 +6,10 @@ int main(int argc, char * argv[]) try
 {
     rs2::log_to_console(RS2_LOG_SEVERITY_ERROR);
     // Creat a simple OpenGL window for rendering:
-    window app(1280. 720, "RealSense Capture Example");
+    window app(1280, 720, "RealSense Capture Example");
 
     // Declare depth colorizer for pretty visulization of depth data
-    rs::colorizer color_map;
+    rs2::colorizer color_map;
     // Declare rates printer for showing streaming rates of the enabled steams.
     rs2::rates_printer printer;
 
